@@ -1,0 +1,8 @@
+C:\git\Tuenti.Challenge.Template\bin\Debug\Challenge.Template.exe.config
+C:\git\Tuenti.Challenge.Template\bin\Debug\Challenge.Template.exe
+C:\git\Tuenti.Challenge.Template\bin\Debug\Challenge.Template.pdb
+C:\git\Tuenti.Challenge.Template\obj\x86\Debug\Challenge.Template.csproj.AssemblyReference.cache
+C:\git\Tuenti.Challenge.Template\obj\x86\Debug\Challenge.Template.csproj.SuggestedBindingRedirects.cache
+C:\git\Tuenti.Challenge.Template\obj\x86\Debug\Challenge.Template.csproj.CoreCompileInputs.cache
+C:\git\Tuenti.Challenge.Template\obj\x86\Debug\Challenge.Template.exe
+C:\git\Tuenti.Challenge.Template\obj\x86\Debug\Challenge.Template.pdb

@@ -6,7 +6,7 @@ using System.IO;
 /// @title. [Title_Challenge]
 /// </summary>
 /// 
-namespace TuentiChallenge_Number
+namespace Challenge_Number
 {
     public class Challenge_Number
     {
